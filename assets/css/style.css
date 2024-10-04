@@ -285,7 +285,6 @@ h6 {
 
 @media (max-width: 600px) {
   #hero {
-    ;
     background: url("../img/mobile.png") ;
     background-size: cover;
     width: 100%;
